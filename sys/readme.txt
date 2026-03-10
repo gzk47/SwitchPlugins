@@ -3,13 +3,11 @@
 
 一、整合包分纯净版和特斯拉版，大家按自己需要选择下载。【均很稳定】
 
-纯净版：只整合了大气层三件套，根目录switch文件夹内的nro软件可自行选择增减。（原始大气层+sys-patch破解补丁插件）
-特斯拉版：在纯净版基础上+特斯拉插件+switch文件夹各种nro软件。（内置sigpatch，禁用联网错误报告，解除金手指128个限制）
-特斯拉版+sys-patch：特斯拉版加上sys-patch破解补丁插件。（原始大气层+特斯拉插件+sys-patch破解补丁插件）
+纯净版：只整合了大气层三件套，根目录switch文件夹内的nro软件可自行选择增减。
+特斯拉版：在纯净版基础上+特斯拉插件+switch文件夹各种nro软件。
 
 SwitchSD-Pure  为：纯净版
-SwitchSD-Tesla 为：特斯拉版
-SwitchSD       为：特斯拉版+sys-patch
+SwitchSD       为：特斯拉版
 EOS-OC-Suite   为：极限超频替换包
 
 
@@ -23,7 +21,7 @@ EOS-OC-Suite   为：极限超频替换包
 
 【Tesla使用说明】
       Tesla调出方式为：L键 + 十字键下
-      Tesla各个插件的启用：相册DeepSea工具箱软件，Backgroud services后台服务，找到要启用的插件（如：emuiibo），设为On，按B键返回，再按手柄主页键返回主页，最后将switch重启。（部份插件无须重启）
+      Tesla各个插件的启用：相册DeepSea或Hekate工具箱软件，Backgroud services后台服务，找到要启用的插件（如：emuiibo），设为On，按B键返回，再按手柄主页键返回主页，最后将switch重启。（部份插件无须重启）
 
 【★重要提醒★】
       1、switch机能较弱，特斯拉插件不要开太多，抢占太多系统内存容易造成死机。
@@ -54,4 +52,5 @@ EOS-OC-Suite，支持最新switch系统
 
 
 gzk_47@qq.com
+
 
