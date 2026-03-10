@@ -6,8 +6,8 @@
 纯净版：只整合了大气层三件套，根目录switch文件夹内的nro软件可自行选择增减。
 特斯拉版：在纯净版基础上+特斯拉插件+switch文件夹各种nro软件。
 
-SwitchSD-Pure  为：纯净版
-SwitchSD       为：特斯拉版
+AMS-Pure       为：纯净版
+AMS-Tesla      为：特斯拉版
 EOS-OC-Suite   为：极限超频替换包
 
 
@@ -52,5 +52,6 @@ EOS-OC-Suite，支持最新switch系统
 
 
 gzk_47@qq.com
+
 
 
