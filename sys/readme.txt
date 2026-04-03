@@ -53,5 +53,8 @@ EOS-OC-Suite，支持最新switch系统
 
 gzk_47@qq.com
 
+QQ1群：979352777
+QQ2群：331793582
 
+下载地址：https://github.com/gzk47/Atmosphere-for-Switch/releases/latest
 
