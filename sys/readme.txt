@@ -8,7 +8,7 @@
 
 AMS-Pure       为：纯净版
 AMS-Tesla      为：特斯拉版
-EOS-OC-Suite   为：极限超频替换包
+Horizon-OC     为：极限超频替换包
 
 
 二、整合包的安装及提醒（按照这里的提示操作你能排除90%以上的问题，软件bug和硬件问题除外）
@@ -33,16 +33,16 @@ EOS-OC-Suite   为：极限超频替换包
 
 -----------------------------------------------------------------------------------------------
 
-【EOS-OC-Suite极限超频替换包】
+【Horizon-OC极限超频替换包】
 
 声明：极限超频仅给有足够经验的人安装测试使用，使用者安装极限超频插件默认知晓并自行承担所有产生的风险。
 
-EOS-OC-Suite，支持最新switch系统
+Horizon-OC，支持最新switch系统
 
 非续航和Lite不建议安装极限超频插件，switch本身定位便携游戏机，性能较弱，极限超频会加速机器老化，造成电池续航不足，机器损坏等风险。
 
 常规超频最大值CPU=1785Mhz，GPU=921Mhz，Memory=1600Mhz
-极限超频最大值CPU=1963Mhz，GPU=998Mhz，Memory=1996Mhz
+极限超频最大值CPU=1963Mhz，GPU=1075Mhz，Memory=2133Mhz
 
 安装：
 将atmosphere，bootloader，config和switch四个文件夹覆盖到【特斯拉版】心悦整合包上替换。
@@ -57,4 +57,3 @@ QQ1群：979352777
 QQ2群：331793582
 
 下载地址：https://github.com/gzk47/Atmosphere-for-Switch/releases/latest
-
